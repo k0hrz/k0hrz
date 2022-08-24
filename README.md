@@ -61,13 +61,13 @@ int main() {
     </a>
     <a href"https://github.com/0xLoky?tab=followers">
         <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/Neurosis101?style=social" />
+             src="https://img.shields.io/github/followers/k0hrz?style=social" />
     </a>
     <a href="https://twitter.com/NullTrunk">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/Neurosis101?style=social">
+             src="https://img.shields.io/twitter/follow/k0hrz?style=social">
     </a>
     <a href="https://visitor-badge.glitch.me">
         <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=Neurosis101.visitor-badge" />
+             src="https://visitor-badge.glitch.me/badge?page_id=k0hrz.visitor-badge" />
     </a> </p>
