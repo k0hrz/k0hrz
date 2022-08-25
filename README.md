@@ -1,19 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=k0hrz%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/tBNG8Myd4f"><img align="right" src="https://discordapp.com/api/guilds/712028511124062259/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg"><img align="right" src="https://discordapp.com/api/guilds/712028511124062259/widget.png?style=banner4"/></a>
 
 ```C++
-#include <iostream>
-#include <stdio.h>
-using namespace std::Trunk 🏴‍☠️;
-
-int main() {
-    char info[128] = "Software Engineer and Machine Learning";
-
-    char *langs[4] = { "html", "css", "php", "python3", "Perl", "C" };
-    char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
-    
-    return 0;
+#
 }
 ``` 
 </div><br>
